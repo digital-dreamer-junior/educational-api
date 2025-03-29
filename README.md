@@ -264,6 +264,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+[Your Name] - [moohammadi.dev@gmail.com]
 
-Project Link: [https://github.com/yourusername/educational-api](https://github.com/yourusername/educational-api)
+Project Link: [https://github.com/digital-dreamer-junior/educational-api](https://github.com/digital-dreamer-junior/educational-api)
